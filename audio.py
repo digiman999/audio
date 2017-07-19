@@ -1,7 +1,8 @@
 
 
 class Audio:   # an Audio object (not a file system file)
-    pass
+    def data(self):
+        pass
 
 
 
