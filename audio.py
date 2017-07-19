@@ -4,6 +4,8 @@ class Audio:   # an Audio object (not a file system file)
     def data(self):
         pass
 
+    def metadata(self):
+        pass
 
 
 
