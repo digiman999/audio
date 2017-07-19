@@ -7,7 +7,8 @@ class Audio:   # an Audio object (not a file system file)
     def metadata(self):
         pass
 
-
+    def other(self):
+        pass
 
 '''
 Fingerprinting
