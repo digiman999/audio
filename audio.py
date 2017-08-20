@@ -10,6 +10,12 @@ class Audio:   # an Audio object (not a file system file)
     def other(self):
         pass
 
+
+class Test:
+    pass
+
+
+
 '''
 Fingerprinting
 - uses
