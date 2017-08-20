@@ -11,7 +11,7 @@ class Audio:   # an Audio object (not a file system file)
         pass
 
 
-class AnotherAudio:
+class AnotherAudioClass:
     pass
 
 
